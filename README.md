@@ -1,1 +1,2 @@
-# super-racer
+# synchronousBallMovement
+Ball moving synchronously
